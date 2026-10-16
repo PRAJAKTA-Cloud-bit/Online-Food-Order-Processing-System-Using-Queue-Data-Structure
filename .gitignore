@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+instance/*
+!instance/.gitkeep
+database/*
+!database/.gitkeep
